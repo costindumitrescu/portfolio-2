@@ -280,7 +280,7 @@ transform: rotate(-450grad) translateX(- .8rem);
 /*End about*/
 
 /*Start services*/
-.my-skills{
+.skills {
   margin-top: 10rem;
 
 }
@@ -337,6 +337,8 @@ transform: rotate(-450grad) translateX(- .8rem);
 /*Start contact*/
 .contact{
   background-color: #29c7ac;
+  margin-top: 50px;
+
 }
 
 form{
@@ -366,6 +368,7 @@ input[type="submit"]{
   border-radius: .8rem;
   cursor: pointer;
   transition: background-color 650ms;
+  margin-bottom: 15px;
 }
 
 input[type="submit"]:hover{
@@ -516,6 +519,20 @@ section-heading h1{
     right: 2rem;
   }
 }
+
+.skill-logos {
+    align-content: center;
+    text-align: center;
+    justify-content: space-evenly;
+    display: flex;
+    margin-top: 5vh;
+  }
+
+.column {
+  font-size: 8rem;
+  justify-content: space-around;
+}
+
 
 /*End animations*/
 
