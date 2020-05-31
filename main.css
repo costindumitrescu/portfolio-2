@@ -125,7 +125,6 @@ header{
   justify-content: center;
   align-items: center;
   font-family: 'Shadows Into Light', cursive;
-  font-size: 7rem;
 }
 
 li{
@@ -139,7 +138,7 @@ li{
 }
 
 .nav-link:hover ,
-.nav-link:focus{
+.nav-link:focus {
   background: linear-gradient(to top, #ffd082, #29c7ac);
   -webkit-background-clip: text;
   -webkit-text-fill-color: transparent;
