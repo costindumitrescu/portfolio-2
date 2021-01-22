@@ -35,6 +35,7 @@ p{
 
 img{
   width: 100%;
+  border-radius: 5%;
 }
 /*End global*/
 
@@ -271,6 +272,7 @@ transform: rotate(-450grad) translateX(- .8rem);
 
 .fa-github:hover{
   color: #29c7ac;
+  margin-left: 20px;
 }
 
 .fa-linkedin:hover{
